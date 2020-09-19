@@ -8,8 +8,10 @@ public class HelloWorld {
 		//System.out.println("Hello World!");
 		String abc = "Hello World!";
 		String def = "Hello Preeta!";
+		Strinf ghi = "Hello Samir!"
 		System.out.println(abc);
 		System.out.println(def);
+		System.out.println(ghi);
 
 	}
 
