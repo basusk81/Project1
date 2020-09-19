@@ -6,8 +6,10 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		//System.out.println("Hello World!");
-		String abc = "Hello Worlds!";
+		String abc = "Hello World!";
+		String def = "Hello Preeta!";
 		System.out.println(abc);
+		System.out.println(def);
 
 	}
 
