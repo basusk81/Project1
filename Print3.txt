@@ -1,0 +1,20 @@
+package test1;
+
+public class Methods {
+	static String ab = "Hello Mom!";   // WHY CHANGED TO STATIC
+
+	public static void main(String[] args) {
+		String a = "Hello World!";
+		System.out.println(a);
+		System.out.println(ab);
+	}
+	
+	public static void methNew1(String[] args) {
+		
+			String b = "Hello Dad!";
+			System.out.println(b);
+			}
+	
+	
+	
+}
