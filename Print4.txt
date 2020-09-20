@@ -4,7 +4,7 @@ public class Methods {
 	static String ab = "Hello Mom!";   // WHY CHANGED TO STATIC
 
 	public static void main(String[] args) {
-		String a = "Hello World!";
+		String a = "Hello Worlds!";
 		System.out.println(a);
 		System.out.println(ab);
 		methNew1(args);
