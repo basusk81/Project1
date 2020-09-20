@@ -9,7 +9,7 @@ public class HelloWorld {
 		String abc = "Hello World!";
 		String def = "Hello Preeta!";
 
-		String ghi = "Hello Saurabh!";
+		String ghi = "Hello Shivani!";
 		System.out.println(abc);
 		System.out.println(def);
 		System.out.println(ghi);
